@@ -1,7 +1,6 @@
 # hello-world
+:3 
+OwO
 
-:3
-:O 
->_<
-
-# Anne best seatmate mwah mwah o3o!!! 
+# write something
+anne best seatmate mwah mwah
